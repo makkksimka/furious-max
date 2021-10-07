@@ -5,7 +5,7 @@ What this calculator can do:
 + multiply
 + add
 + substract
-'''C++
+```C++
 int main(){
     int a = 0;
     int b = 0;
@@ -16,7 +16,6 @@ int main(){
     std::cin >> b;
     std::cout << "Enter operation: ";
     std::cin >> operation;
- 
     switch (operation){
     case '-':
         std::cout << "a - b = " << a - b <<'\n';
@@ -35,4 +34,4 @@ int main(){
     }
     return 0;
 }
-'''
+```
