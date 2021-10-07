@@ -16,7 +16,6 @@ int main(){
     std::cin >> b;
     std::cout << "Enter operation: ";
     std::cin >> operation;
- 
     switch (operation){
     case '-':
         std::cout << "a - b = " << a - b <<'\n';
