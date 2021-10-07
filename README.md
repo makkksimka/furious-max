@@ -5,7 +5,7 @@ What this calculator can do:
 + multiply
 + add
 + substract
-'''C++
+```C++
 int main(){
     int a = 0;
     int b = 0;
@@ -34,4 +34,4 @@ int main(){
     }
     return 0;
 }
-'''
+```
